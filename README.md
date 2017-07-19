@@ -3,6 +3,6 @@ Tongxingpoints integration/staging tree
 
 Copyright (c) 2009-2014 Bitcoin Core Developers
 Copyright (c) 2014-2016 Dacrs Core Developers
-Copyright (c) 2016-? Tongxingpoints Core Developers
+Copyright (c) 2016-2017 Tongxingpoints Core Developers
 
 
