@@ -1,0 +1,8 @@
+Running 13 test cases...
+main hashGenesisBlock:
+9b117b9dcc030c7ccd3af028750022cfd029d04a5dbf441dd4b2d97200cbe132
+main hashMerkleRoot:
+29f414ada044bd7af3e27a45aae27dc4669e4c0f574c1b3186f45227cb21bf4c
+max money100000000000000000
+25254687500000000
+Main_tests.cpp(23): error in "subsidy_limit_test": check nSum == 2099999997690000ULL failed
